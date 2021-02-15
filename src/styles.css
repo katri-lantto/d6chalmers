@@ -1,0 +1,9 @@
+.horizontal-menu > div {
+    display: inline-block;
+  }
+  
+  .blog-post {
+    width: 50%;
+    margin: 1% auto;
+  }
+  
