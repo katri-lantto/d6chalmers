@@ -1,2 +1,1 @@
-# d6chalmers
-Created with CodeSandbox
+# D6Chalmers
