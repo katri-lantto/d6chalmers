@@ -1,0 +1,31 @@
+.card {
+    background-color: #222;
+    width: 90%;
+    margin: 1% auto;
+}
+
+.card > .content {
+    display: inline-block;
+    overflow: None;
+}
+
+.card > .content > .text {
+    float: right;
+    width: 50%;
+    margin: 10% 0;
+}
+
+.card > .content > .logo {
+    float: left;
+    width: 40%;
+    margin: 5%;
+}
+
+.card > .content > h2 {
+    font-size: 5rem;
+}
+
+.card > .content > img {
+    width: 98%;
+    margin: 0 1%;
+}
